@@ -1,0 +1,10 @@
+101,The members of the Rajya Sabha are elected by,The people,Lok Sabha,elected members of the legislative assembly,elected members of the legislative council,c
+102,The minimum age to qualify for election to the Lok Sabha is,25 years,21 years,18 years,35 years,a
+103,The purpose of choke in tube light is ?,To decrease the current,To increase the current,To decrease the voltage momentarily,To increase the voltage momentarily,d
+104,Ozone hole refers to,hole in ozone layer,decrease in the ozone layer in troposphere,decrease in thickness of ozone layer in stratosphere,increase in the thickness of ozone layer in troposphere,c
+105,Mirage is due to,unequal heating of different parts of the atmosphere,magnetic disturbances in the atmosphere,depletion of ozone layer in the atmosphere,equal heating of different parts of the atmosphere,a
+106,Pa(Pascal) is the unit for,thrust,pressure,frequency,conductivity,b
+107,The central banking functions in India are performed by the,Central Bank of India,Reserve Bank of India,State Bank of India,Punjab National Bank,b
+108,Who was known as Iron man of India?,Govind Ballabh Pant,Jawaharlal Nehru,Subhash Chandra Bose,Sardar Vallabhbhai Patel,d
+109,The Dr. Babasaheb Ambedkar Marathwada University is at which of the following places?,Aurangabad,Nanded,Parbhani,Nagpur,a
+110,The National Song of India was composed by,Rabindranath Tagore,Bankim Chandra Chatterji,Iqbal,Jai Shankar Prasad,a
